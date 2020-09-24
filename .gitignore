@@ -1,0 +1,25 @@
+# ignore data files
+data
+
+# ignore bash scripts
+*.sh
+
+# ignore experimental results
+exp
+results
+
+# ignore log files
+log*
+
+# ignore pycache
+__pycache__
+
+# ignore saved model
+*.pkl
+*.pt
+
+# ignore vscode
+.vscode
+.vsub
+tmp
+multilingual_trans
