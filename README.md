@@ -1,6 +1,7 @@
 # Cross CRFAE
 
 Code for the paper _Unsupervised Cross-Lingual Adaptation of Dependency Parsers Using CRF Autoencoders_ in the findings of EMNLP 2020.
+https://www.aclweb.org/anthology/2020.findings-emnlp.193/
 
 ## Requirements
 
